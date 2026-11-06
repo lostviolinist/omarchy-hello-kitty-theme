@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "lostviolinist.hello-kitty-sparkles",
+  "name": "Hello Kitty Cursor Sparkles",
+  "version": "0.1.0",
+  "author": "lostviolinist",
+  "license": "MIT",
+  "description": "An optional click-through pink and gold sparkle trail for Omarchy on Hyprland.",
+  "kinds": ["service"],
+  "entryPoints": {"service": "extras/sparkles/Service.qml"}
+}

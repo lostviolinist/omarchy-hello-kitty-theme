@@ -1,0 +1,93 @@
+# Handwritten surface tokens. Omarchy supplies defaults for omitted properties.
+[bar]
+background = "#F9E1EC"
+background-alpha = 1.0
+text = "#493442"
+active = "#B52C66"
+size-horizontal = 30
+size-vertical = 32
+scale-with-font = true
+
+[font]
+base-size = 12
+
+[spacing]
+scale = 1.05
+scale-with-font = true
+
+[controls]
+normal-color = "#493442"
+normal-fill-alpha = 0.04
+normal-border = "#B52C66"
+normal-border-alpha = 0.25
+normal-border-width = 1
+hover-cursor-color = "#B52C66"
+hover-cursor-fill-alpha = 0.10
+hover-cursor-border = "#B52C66"
+hover-cursor-border-alpha = 0.5
+hover-cursor-border-width = 1
+focus-color = "#B52C66"
+focus-fill-alpha = 0.10
+focus-border = "#B52C66"
+focus-border-alpha = 0.7
+focus-border-width = 1
+selected-color = "#B52C66"
+selected-fill-alpha = 0.14
+selected-border-width = 0
+pressed-fill-alpha = 0.20
+
+[popups]
+background = "#FFF0F6"
+background-alpha = 1.0
+text = "#493442"
+border = "#B52C66"
+border-alpha = 0.65
+
+[notifications]
+background = "#FFF0F6"
+background-alpha = 1.0
+text = "#493442"
+border = "#B52C66"
+border-alpha = 0.65
+countdown = "#B52C66"
+
+[menu]
+background = "#FFF0F6"
+background-alpha = 1.0
+text = "#493442"
+border = "#B52C66"
+border-alpha = 0.65
+scrim = "#493442"
+scrim-alpha = 0.12
+selected-background = "#B52C66"
+selected-background-alpha = 0.10
+selected-text = "#982252"
+selected-border = "#B52C66"
+selected-border-alpha = 0.25
+
+[launcher]
+background = "#FFF0F6"
+background-alpha = 1.0
+text = "#493442"
+border = "#B52C66"
+border-alpha = 0.65
+scrim = "#493442"
+scrim-alpha = 0.12
+selected-background = "#B52C66"
+selected-background-alpha = 0.10
+selected-text = "#982252"
+selected-border = "#B52C66"
+selected-border-alpha = 0.25
+
+[lock]
+background = "#FFF0F6"
+background-alpha = 0.97
+text = "#493442"
+placeholder = "#79566B"
+text-error = "#AD3454"
+border = "#D6A4BA"
+border-active = "#B52C66"
+border-error = "#AD3454"
+border-alpha = 1.0
+selection = "#B52C66"
+selection-alpha = 0.20
